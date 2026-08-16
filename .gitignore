@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+/media/
+media_contact_sheet.jpg
+prompt.md
+princip_bobrova_site_context.md
+*.log
+.DS_Store
